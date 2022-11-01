@@ -18,6 +18,6 @@ function initPage() {
     let searchHistory = JSON.parse(localStorage.getItem("search")) || [];
     
     function getWeather(cityName) {
-        // Execute a current weather get request from open weather api
-        let queryURL = "https://api.openweathermap.org/data/2.5/weather?q=" + cityName + "&appid=" + APIKey;
-        axios.get(queryURL)
+        
+        let queryURL = "https://api.openweathermap.org/data/2.5/weather?q=" + cityName + "&appid=";
+        
