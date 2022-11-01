@@ -21,7 +21,7 @@ function initPage() {
 
     function getWeather(cityName) {
         // Execute a current weather get request from open weather api
-        let queryURL = "https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key};
+        let queryURL = "https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={APIKey};
         axios.get(queryURL)
             .then(function (response) {
 
