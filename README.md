@@ -1,4 +1,4 @@
-# Weather-Forcast
+# Weather-Forecast
 It's raining men
 
 # User Story
