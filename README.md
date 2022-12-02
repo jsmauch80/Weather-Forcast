@@ -9,6 +9,6 @@ So that I can plan a trip accordingly
 
 Repo:	https://github.com/jsmauch80/
 
-Live: 	https://jsmauch80.github.io/
+Live: 	https://jsmauch80.github.io/Weather-Forecast/
 
 Screenshot:	![image](https://github.com/jsmauch80/)
